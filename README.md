@@ -16,7 +16,7 @@ Debe realizar este tipo de análisis en cualquier serie de observaciones que ten
 
 El código empleado para resolverlo es el siguiente: 
 
-```python**
+```python
 
 from collections import Counter
 from math import *
